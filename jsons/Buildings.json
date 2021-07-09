@@ -1,24 +1,24 @@
 [
 	{
 		"name": "Black Cannon"
-		"repalces": "Military Base"
+		"replaces": "Military Base",
 		"cityStrength": 15,
 		"cityHealth": 30,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
-		"requiredTech": "Replacable Parts",
+		"requiredTech": "Replaceable Parts",
 		"uniqueTo": "Black Hole"
-	}
+	},
 
 	//Wonders
 	{
 		"name": "Deathray",
 		"cityStrength": 25,
-		"CityHealth": 50,
+		"cityHealth": 50,
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"science": 2},
 		"requiredTech": "Lasers",
 		"quote": "'I will not let it end here. I will sacrifice my own flesh and all of you, will join me in death!' - Sturm"
-	},
+	}
 ]

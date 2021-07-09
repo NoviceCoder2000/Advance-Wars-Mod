@@ -7,10 +7,11 @@
 		"strength": 125,
 		"cost": 475,
 		"replaces": "Modern Armor",
-		"uniqueTo": "Black Hole"
+		"uniqueTo": "Black Hole",
+		"upgradesTo": "Giant Death Robot"
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"]
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"promotions": ["Mobility"]
 	},
 	
@@ -25,7 +26,7 @@
 		"replaces": "Nuclear Missile",
 		"uniqueTo": "Black Hole",
 		"requiredTech": "Rocketry",
-		"uniques": ["Self-destructs when attacking", "Nuclear weapon"],
+		"uniques": ["Self-destructs when attacking", "Nuclear weapon of Strength [2]", "Blast radius [2]"],
 		"attackSound": "nuke"
 	}
 ]
