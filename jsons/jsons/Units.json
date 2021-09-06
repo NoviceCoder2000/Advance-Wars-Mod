@@ -1,0 +1,128 @@
+[
+	//Black Hole Units
+	{
+		"name": "Neotank",
+		"unitType": "Armor",
+		"movement": 5,
+		"strength": 120,
+		"cost": 475,
+		"replaces": "Modern Armor",
+		"uniqueTo": "Black Hole",
+		"upgradesTo": "Giant Death Robot",
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["Mobility"],
+		"attackSound": "tankshot"
+	},
+	
+	{
+		"name": "Meteor Strike",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 300,
+		"rangedStrength": 300,
+		"range": 15,
+		"cost": 1000,
+		"replaces": "Nuclear Missile",
+		"uniqueTo": "Black Hole",
+		"requiredTech": "Rocketry",
+		"uniques": ["Self-destructs when attacking", "Nuclear weapon of Strength [2]", "Blast radius [2]"],
+		"attackSound": "nuke"
+	},
+	
+	//Orange Star Units
+	{
+		"name": "Orange Bomber",
+		"unitType": "Bomber",
+		"movement": 2,
+		"strength": 85,
+		"rangedStrength": 85,
+		"range": 20,
+		"cost": 425,
+		"replaces": "Stealth Bomber"
+		"uniqueTo": "Orange Star"
+		"requiredTech": "Stealth",
+		"requiredResource": "Aluminum",
+		"uniques": ["Damage taken from interception reduced by [120]%", "6 tiles in every direction always visible"],
+		"attackSound": "bombing"
+	},
+	
+	{
+		"name": "Special Ops",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 100,
+		"cost": 400,
+		"replaces": "Mechanized Infantry"
+		"uniqueTo": "Orange Star"
+		"requiredTech": "Mobile Tactics",
+		"attackSound": "shot"
+		"promotions": ["Besiege"]
+	},
+	
+	//Blue Moon Units
+	
+	{
+		"name": "Long Range MRL",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 60,
+		"range": 4,
+		"cost": 475,
+		"replaces": "Rocket Artillery",
+		"uniqueTo": "Blue Moon",
+		"requiredTech": "Rocketry",
+		"requiredResource": "Aluminum",
+		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus",
+			"Limited Visibility","Ranged attacks may be performed over obstacles"],
+		"attackSound": "artillery"
+	}
+	
+	//Yellow Comet Units
+	
+	{
+		"name": "Assault Trooper",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"replaces": "Paratrooper",
+		"uniqueTo": "Yellow Comet",
+//		"upgradesTo": "Xcom Squad",
+		"requiredTech": "Radar",
+		"uniques": ["May Paradrop up to [6] tiles from inside friendly territory","Ignores terrain cost"],
+		"attackSound": "shot"
+	},
+	
+	{
+		"name": "Battle Helicopter",
+		"unitType": "Helicopter",
+		"movement": 6,
+		"strength": 75,
+		"cost": 425,
+		"replaces": "Helicopter Gunship",
+		"uniqueTo": "Yellow Comet",
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"uniques": ["+[100]% Strength vs [Armored]", "No defensive terrain bonus", "Can move after attacking",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities"],
+		"attackSound": "machinegun"
+	},
+	
+	//Green Earth Units
+	
+	{
+		"name": "Megatank",
+		"unitType": "Armored",
+		"movement": 2,
+		"strength": 175,
+		"cost": 500,
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "Green Earth",
+		"requiredTech": "Lasers",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Limited Visibility","Consumes [2] [Oil]","Consumes [1] [Aluminum]"],
+		"attackSound": "tankshot"
+	}
+]
