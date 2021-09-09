@@ -1,4 +1,5 @@
 [
+	//Black Hole
 	{
 		"name": "Black Cannon"
 		"replaces": "Military Base",
@@ -9,11 +10,38 @@
 		"requiredTech": "Replaceable Parts",
 		"uniqueTo": "Black Hole"
 	},
-
+	
+	//Blue Moon
+	{
+		"name": "National Treasury",
+		"replaces": "Bank",
+		"gold": 5,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking",
+		"uniqueTo": "Blue Moon"
+		"uniques": ["Doubles Gold given to enemy if city is captured","All newly-trained [Military] units in this city receive the [Combat Pay] promotion"],
+	},
+	
+	//Green Earth
+	{
+		"name": "Communication Tower",
+		"replaces": "Broadcast Tower",
+		"percentStatBonus": {"culture": 33},		
+		"culture": 2,
+		"requiredBuilding": "Arsenal",
+		"maintenance": 4,
+		"requiredTech": "Radio",
+		"uniqueTo": "Green Earth",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]"]
+	},	
+	
 	//Wonders
 	{
 		"name": "Deathray",
-		"cityStrength": 25,
+		"cityStrength": 30,
 		"cityHealth": 50,
 		"culture": 1,
 		"isWonder": true,

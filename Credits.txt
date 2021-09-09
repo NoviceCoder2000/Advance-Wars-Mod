@@ -26,8 +26,8 @@ https://thenounproject.com/search/?q=soldier+helmet&i=285751
 - Orange Bomber - stealth by Tinashe Mugayi from the Noun Project
 https://thenounproject.com/search/?q=stealth+bomber&i=638995
 
-- Self-Propelled Gun - Tank by Lluisa Iborra from the Noun Project
-https://thenounproject.com/search/?q=Artillery&i=1729435
+- Extended Range MRLS - missile by Eucalyp from the Noun Project
+https://thenounproject.com/search/?q=Missile&i=4158642
 
 - Battle Copter - Helicopter by Candra from the Noun Project
 https://thenounproject.com/search/?q=Helicopter&i=3080587
@@ -53,3 +53,12 @@ https://thenounproject.com/search/?q=vault&i=1547506
 Promotion Icons
 - Relentless Invasion - sprinting by ProSymbols from the Noun Project
 https://thenounproject.com/search/?q=Sprint&i=1870867
+
+- Combat Pay - pay by iconpixel from the Noun Project
+https://thenounproject.com/search/?q=pay&i=3774959
+
+- Landlubber- drown by Adrien Coquet from the Noun Project
+https://thenounproject.com/search/?q=drowning&i=2696249
+
+
+Special thanks to GeneralWadaling (THE BUCKETEER) for helping me develop the unit sprites.

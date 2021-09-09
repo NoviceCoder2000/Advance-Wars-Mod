@@ -2,7 +2,7 @@
 	{
 		"name": "Black Hole",
 		"leaderName": "Sturm",
-		"adjective": ["Invaders"],
+		"adjective": ["Invader"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Sturm, you are a mighty and fearsome leader. You are a being who despise peace and enjoys the glories of war. Although little are known about your past, you are well known for the conquests and victories that you had achieved. No one knows how many have fallen victim by your ruthlessness and no one knows how many lives were paid for the countless wars that you have started. But despite of those, one thing is for sure, your men views you as an indomitable warrior and will do anything that you will even if it costs them death.",
@@ -23,7 +23,7 @@
 		"hateNo": ["Unacceptable!","This is insulting!","Do you wish to be destroyed right now?"],
 		"hateYes": ["Hmph.","I cannot refuse.","Fine!"],
 		
-		"afterPeace": "Consider this as a sign of my mercy towards you.",
+		"afterPeace": "Don't think that I'm already done with you.",
 		"tradeRequest": "Be blessed that I made this offer at the first place.",
 
 		"outerColor": [0,0,0],
@@ -32,5 +32,148 @@
 		"uniqueText": "Units excel in combat no matter what are the situation, granting +20% combat bonus. Units also ignores terrain cost.",
 		"uniques": ["+[20]% combat bonus for units fighting in [Friendly Land]","+[20]% combat bonus for units fighting in [Foreign Land]","[All] units gain the [Relentless Invasion] promotion"],
 		"cities": ["Black Hole HQ","Saggitarius","Messier","Markarian","Centaurus","Fairall","Zwicky","Cygnus","Abell","Hercules","Holmberg","Cosmo Land","Macro Land","Omega Land","Sturm's Land","Lash Land",]
-	}
+	},
+	
+	{
+		"name": "Orange Star",
+		"leaderName": "Nell",
+		"adjective": ["Orange Star"],
+		"occursOn": ["Avoid [Desert]"],
+//		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Ah! Greetings Ms. Nell! I am here today to give you a short briefing. The top leaders of our council has chosen you to lead our country, for they see you to be the only one, fit enough to do the upcoming challenge that our country is about to face. As you may know, our country has fought so much wars within the past years, where even at one point we are fighting the whole world, but as time passes, wars are not the only thing that must be won, but we must now also win the hearts and the minds of the people, through the means of diplomacy and through the means of spreading the arts and talents of each individuals.",
+		"startIntroPart2": "Ms. Nell, the people are now here to listen to your orders. Can you help our country strive into greatness? Can you, build and lead our nation to new brillance that can withstand the test of time?",
+		
+		"declaringWar": "I'm feeling lucky today! I hope your troops are ready for mine!",
+		"attacked": "Hey! Don't underestimate my luck!",
+		"defeated": "Well done cadet! I am now confident to announce that you are now a fully pledged CO!",
+		"introduction": "Hello! Welcome to Orange Star!",
+		
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["I'm listening","I'm interested!","Go on."],
+		"neutralNo": ["No.","We decline your offer.","This is unagreeable."],
+		"neutralYes": ["Great!","Yes!","I like this one!"],
+
+		"hateHello": "Speak Soldier!",
+		"hateLetsHearIt": ["Permission to speak is granted!","Move it!","Double time, soldier!"],
+		"hateNo": ["Denied!","This cannot be!","This is untolerable!"],
+		"hateYes": ["Fine!","This cannot be refused.","Accepted!"],
+		
+		"afterPeace": "You passed the test cadet, well done on your training!",
+		"tradeRequest": "This trade offer will bring you luck!",
+
+		"outerColor": [229,103,23],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Lucky Star",
+		"uniques": ["[Great General] is earned [25]% faster","[Great Scientist] is earned [25]% faster"],
+		"uniqueText": "Great Generals, as well Great Scientists are 25% much faster.",
+		"cities": ["Orange Star HQ","Sol","Scuti","Polaris","Sirius","Betelgeuse","Centauri","Rigel","Antares","Trappist","Arcturus","Vega","Deneb","Aldebaran","Formalhaut","Canopus","Ursa","Canis","Altair","Lambda","Epsilon","Alnilam"]
+		},
+		
+		{
+		"name": "Blue Moon",
+		"leaderName": "Olaf",
+		"adjective": ["Blue Moon"],
+		"startBias": ["Snow","Tundra"],
+    	"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Commander Olaf, ah greetings! Blue Moon have been a prosperous nation over the years, thanks to our brillant generals and as well as to our brillant economists. We have been a glorious nation over the past years and we shall be always on top compared to our neighbors. We are also great within the field of warfare, that no one can ever invade us! May it be those stinking Black Hole Invaders or our Orange Star neighbors, and it's all thanks to your leadership commander! But times have changed and our country must also adapt through these changes that were presented.",
+		"startIntroPart2": "Commander Olaf, the people now awaits your guidance! Can you lead our glorious nation into greatness that no other civilization can match? Is your great skill in leading our troops can match your skill as a leader of a great nation? Can you construct a great country that can withstand even the harshest test of time?",
+		
+		"declaringWar": "For the glory of Blue Moon! Chaaaaaaarge!!!",
+		"attacked": "Hoho! Do you really think your pitiful troops could stand the cold?",
+		"defeated": "What!? Me? Defeated!? Impossible! Why must it all come to this?",
+		"introduction": "Greetings stranger! I hope you are used to the cold weather! As this can be felt through all year round!",
+		
+		"neutralHello": "Hello there!",
+		"neutralLetsHearIt": ["Let us hear it.","I am listening.","Go on."],
+		"neutralNo": ["No.","We decline this offer.","We refuse."],
+		"neutralYes": ["Great!","This is excellent","It is irrefusable!"],
+
+		"hateHello": "What do you want!?",
+		"hateLetsHearIt": ["Go on!","Say it now!","What do you wish to say?"],
+		"hateNo": ["Unacceptable!","We cannot accept this!","Never!"],
+		"hateYes": ["This is good.","I cannot refuse.","Fine!"],
+		
+		"afterPeace": "Let us forget the past and move foward for our futures!",
+		"tradeRequest": "The people of Blue Moon would like to share their wealth with you!",
+
+		"outerColor": [173, 216, 230],
+		"innerColor": [0, 0, 128],
+		"uniqueName": "Winter Fury",
+		"uniqueText": "Units likes fighting in the cold, receiving +10% combat bonus on Snow and Tundra tiles. However, units hates the rain, receiving -10% penalty in Jungle tiles.",
+		"uniques": ["+[10]% combat bonus for units fighting in [Snow]","+[10]% combat bonus for units fighting in [Tundra]","-[10]% combat bonus for units fighting in [Jungle]"],
+		"cities": ["Blue Moon HQ","Luna","Phobos","Deimos","Europa","Ganymede","Io","Callisto","Amalthea","Eceladus","Titan","Mimas","Dione","Tethys","Umbriel","Titania","Miranda","Triton","Thalassa","Proteus","Charon"]
+		},
+		
+		{
+		"name": "Yellow Comet",
+		"leaderName": "Kanbei",
+		"startBias": ["Avoid [Desert]","Coast"],
+		"adjective": ["Yellow Comet"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hail your highness! Emperor Kanbei, you are one of the greatest men that have lead Yellow Comet for many years have come! You are an honorable warrior who knows the meaning of sacrifice, and you shall never back down against our foes even if it may cost you death, that is why the people adores and loves you my Emperor. Not only that, you are a superb commander when it comes to the military and even the laziest soldier there is, you can easily turn him to a greatly disciplined warrior, ready for battle!",
+		"startIntroPart2": "But my Emperor, the people needs you again, as our illustrious empire is once more, about to face a great trial. The people seeks greatness that can surpass our ancestors and bring our nation on the top! My emperor can you build a great empire for our people? Can you build a civilization that can stand the test of time?",
+		
+		"declaringWar": "We have endured your foul stench for so long. But now, you are but to suffer under the steel of my blade! Prepare yourself!",
+		"attacked": "Ha! Do not underestimate us! I shall build a mountain of troops to stop your advance!",
+		"defeated": "What!? Those bases are useless! Perhaps my daughter was right about THAT plan.",
+		"introduction": "Ah! A foreigner! We humbly welcome you to our land!",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["I'm listening","I'm interested!","Go on."],
+		"neutralNo": ["No.","I refuse.","I do not like your offer"],
+		"neutralYes": ["Great!","Yes","I like this one!"],
+
+		"hateHello": "What now?!",
+		"hateLetsHearIt": ["Go ahead","Hurry Up!","Make it quick!"],
+		"hateNo": ["Unacceptable!","NO!","Never!"],
+		"hateYes": ["It is good enough.","I cannot refuse.","Fine!"],
+		
+		"afterPeace": "You have fought well, It was an honor to fight you!",
+		"tradeRequest": "Are you interested in this offer?",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 255, 0],
+		"uniqueName": "Samurai Spirit",
+		"uniqueText": "Military units are well disciplined, receiving +30% combat bonus on all terrains, however they are all expensive, decreasing the production speed and increasing the maintenance cost.",
+		"uniques": ["+[30]% combat bonus for units fighting in [Friendly Land]","+[30]% combat bonus for units fighting in [Foreign Land]","-[20]% Production when constructing [Military] units","+[20]% [Military] unit maintenance costs"],
+		"cities": ["Yellow Comet HQ","Halley","Borrelly","Encke","Hale","Bopp","Hyakutake","Tuttle","Ikeya","Seki","Tempel","Chiron","Arend","Pons","Winnecke","Herschel","Rigollet","Ison","Metcalf"]
+		},
+		
+		{
+		"name": "Green Earth",
+		"leaderName": "Eagle",
+		"adjective": ["Green Earth"],
+    	"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "General Eagle, greetings. You have been famed on all over our country due to your brillance on ruling the skies, and bringing death from above to our foes. No other nations can surpass the might of the Green Earth air force and it shall always stay that way. Many years ago, the Black Hole mongrels have invaded our great country and nearly brought us all to the brink of destruction. But the people of Green Earth have persevered have brought us to the greatest victory the world has ever seen! And it is all thanks to you and to all of the other generals who stood bravely against their menace.",
+		"startIntroPart2": "General Eagle, the time has changed, wars are no longer fought in the battlefield, but are now also fought through the minds of men. General, the people no longer needs you as a great general, but rather, they need you as a leader! Are you ready to face the challenges that our civilization shall face? Can you perhaps build a great nation that can stand the test of time?",
+		
+		"declaringWar": "I have no interests on underlings such as you, begone!",
+		"attacked": "Haha! Do you think you can keep up?",
+		"defeated": "You... I will never forgive you to what you have done to my country!",
+		"introduction": "The eagle soars above you!",
+		
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["Go ahead.","I'm interested!","Go on."],
+		"neutralNo": ["No.","I refuse.","I do not like your offer."],
+		"neutralYes": ["Great!","Yes","I like this one!"],
+
+		"hateHello": "Speak!",
+		"hateLetsHearIt": ["Say it!","Make it quick!","Make sure this is worth the time."],
+		"hateNo": ["Unacceptable!","This is unacceptable!","We refuse!"],
+		"hateYes": ["Fine then!","I cannot refuse.","This is good enough."],
+		
+		"afterPeace": "Hah, you are not that bad after all.",
+		"tradeRequest": "This trade could bring a strategic advantage between the two of us!",
+
+		"outerColor": [144,238,144],
+		"innerColor": [0,255,0],
+		"uniqueName": "Lightning Strike",
+		"uniqueText": "Bombers can attack twice, Fighters can intercept twice, Helicopters can also attack twice. But all naval units suffer -15% combat penalty.",
+		"uniques": ["[Helicopter] units gain the [Logistics] promotion","[Fighter] units gain the [Sortie] promotion","[Bomber] units gain the [Logistics] promotion","[Ranged Water] units gain the [Landlubber] promotion","[Melee Water] units gain the [Landlubber] promotion"],
+		"cities": ["Green Earth HQ","Gaia","Terra","Mercury","Venus","Jupiter","Saturn","Uranus","Neptune","Pluto","Eris","Haumea","Ceres","Makemake","Sedna","Quaoar","Orcus","Gonggong","Hygiea","Chiron","Intermania"]
+		}
 ]
