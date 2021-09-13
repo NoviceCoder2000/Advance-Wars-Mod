@@ -1,7 +1,7 @@
 [
 	//Black Hole
 	{
-		"name": "Black Cannon"
+		"name": "Black Cannon",
 		"replaces": "Military Base",
 		"cityStrength": 15,
 		"cityHealth": 30,
@@ -21,8 +21,8 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking",
-		"uniqueTo": "Blue Moon"
-		"uniques": ["Doubles Gold given to enemy if city is captured","All newly-trained [Military] units in this city receive the [Combat Pay] promotion"],
+		"uniqueTo": "Blue Moon",
+		"uniques": ["Doubles Gold given to enemy if city is captured","All newly-trained [Military] units in this city receive the [Combat Pay] promotion"]
 	},
 	
 	//Green Earth
@@ -31,6 +31,7 @@
 		"replaces": "Broadcast Tower",
 		"percentStatBonus": {"culture": 33},		
 		"culture": 2,
+		"science": 1,
 		"requiredBuilding": "Arsenal",
 		"maintenance": 4,
 		"requiredTech": "Radio",

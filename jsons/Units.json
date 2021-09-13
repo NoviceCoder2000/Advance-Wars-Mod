@@ -40,8 +40,8 @@
 		"rangedStrength": 85,
 		"range": 20,
 		"cost": 425,
-		"replaces": "Stealth Bomber"
-		"uniqueTo": "Orange Star"
+		"replaces": "Stealth Bomber",
+		"uniqueTo": "Orange Star",
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
 		"uniques": ["Damage taken from interception reduced by [120]%", "6 tiles in every direction always visible"],
@@ -51,13 +51,13 @@
 	{
 		"name": "Special Ops",
 		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 100,
+		"movement": 3,
+		"strength": 95,
 		"cost": 400,
 		"replaces": "Mechanized Infantry"
 		"uniqueTo": "Orange Star"
 		"requiredTech": "Mobile Tactics",
-		"attackSound": "shot"
+		"attackSound": "shot",
 		"promotions": ["Besiege"]
 	},
 	

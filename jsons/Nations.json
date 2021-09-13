@@ -4,6 +4,7 @@
 		"leaderName": "Sturm",
 		"adjective": ["Invader"],
 		"preferredVictoryType": "Domination",
+		"style": "Black Hole",
 		
 		"startIntroPart1": "Sturm, you are a mighty and fearsome leader. You are a being who despise peace and enjoys the glories of war. Although little are known about your past, you are well known for the conquests and victories that you had achieved. No one knows how many have fallen victim by your ruthlessness and no one knows how many lives were paid for the countless wars that you have started. But despite of those, one thing is for sure, your men views you as an indomitable warrior and will do anything that you will even if it costs them death.",
 		"startIntroPart2": "After travelling and venturing for so long, you then saw this planet filled with great civilizations that has their own unique characteristics, where some also seeks glory through wars such as you. Sturm, conqueror of the worlds, how shall you deal with this planet? Shall you crush them all and add the numbers of the fallen victims of your conquests? Or shall you take a different route this time?",
@@ -31,7 +32,7 @@
 		"uniqueName": "True Warmongering",
 		"uniqueText": "Units excel in combat no matter what are the situation, granting +20% combat bonus. Units also ignores terrain cost.",
 		"uniques": ["+[20]% combat bonus for units fighting in [Friendly Land]","+[20]% combat bonus for units fighting in [Foreign Land]","[All] units gain the [Relentless Invasion] promotion"],
-		"cities": ["Black Hole HQ","Saggitarius","Messier","Markarian","Centaurus","Fairall","Zwicky","Cygnus","Abell","Hercules","Holmberg","Cosmo Land","Macro Land","Omega Land","Sturm's Land","Lash Land",]
+		"cities": ["Black Hole HQ","Saggitarius","Messier","Markarian","Centaurus","Fairall","Zwicky","Cygnus","Abell","Hercules","Holmberg","Cosmo Land","Macro Land","Omega Land","Sturm's Land","Lash Land"]
 	},
 	
 	{
@@ -40,6 +41,7 @@
 		"adjective": ["Orange Star"],
 		"occursOn": ["Avoid [Desert]"],
 //		"preferredVictoryType": "Diplomatic",
+		"style": "Orange Star",
 		
 		"startIntroPart1": "Ah! Greetings Ms. Nell! I am here today to give you a short briefing. The top leaders of our council has chosen you to lead our country, for they see you to be the only one, fit enough to do the upcoming challenge that our country is about to face. As you may know, our country has fought so much wars within the past years, where even at one point we are fighting the whole world, but as time passes, wars are not the only thing that must be won, but we must now also win the hearts and the minds of the people, through the means of diplomacy and through the means of spreading the arts and talents of each individuals.",
 		"startIntroPart2": "Ms. Nell, the people are now here to listen to your orders. Can you help our country strive into greatness? Can you, build and lead our nation to new brillance that can withstand the test of time?",
@@ -66,7 +68,7 @@
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Lucky Star",
 		"uniques": ["[Great General] is earned [25]% faster","[Great Scientist] is earned [25]% faster"],
-		"uniqueText": "Great Generals, as well Great Scientists are 25% much faster.",
+		"uniqueText": "Great Generals, as well Great Scientists are earned 25% faster.",
 		"cities": ["Orange Star HQ","Sol","Scuti","Polaris","Sirius","Betelgeuse","Centauri","Rigel","Antares","Trappist","Arcturus","Vega","Deneb","Aldebaran","Formalhaut","Canopus","Ursa","Canis","Altair","Lambda","Epsilon","Alnilam"]
 		},
 		
@@ -76,6 +78,7 @@
 		"adjective": ["Blue Moon"],
 		"startBias": ["Snow","Tundra"],
     	"preferredVictoryType": "Domination",
+		"style": "Blue Moon",
 		
 		"startIntroPart1": "Commander Olaf, ah greetings! Blue Moon have been a prosperous nation over the years, thanks to our brillant generals and as well as to our brillant economists. We have been a glorious nation over the past years and we shall be always on top compared to our neighbors. We are also great within the field of warfare, that no one can ever invade us! May it be those stinking Black Hole Invaders or our Orange Star neighbors, and it's all thanks to your leadership commander! But times have changed and our country must also adapt through these changes that were presented.",
 		"startIntroPart2": "Commander Olaf, the people now awaits your guidance! Can you lead our glorious nation into greatness that no other civilization can match? Is your great skill in leading our troops can match your skill as a leader of a great nation? Can you construct a great country that can withstand even the harshest test of time?",
@@ -112,6 +115,7 @@
 		"startBias": ["Avoid [Desert]","Coast"],
 		"adjective": ["Yellow Comet"],
 		"preferredVictoryType": "Domination",
+		"style": "Yellow Comet",
 		
 		"startIntroPart1": "Hail your highness! Emperor Kanbei, you are one of the greatest men that have lead Yellow Comet for many years have come! You are an honorable warrior who knows the meaning of sacrifice, and you shall never back down against our foes even if it may cost you death, that is why the people adores and loves you my Emperor. Not only that, you are a superb commander when it comes to the military and even the laziest soldier there is, you can easily turn him to a greatly disciplined warrior, ready for battle!",
 		"startIntroPart2": "But my Emperor, the people needs you again, as our illustrious empire is once more, about to face a great trial. The people seeks greatness that can surpass our ancestors and bring our nation on the top! My emperor can you build a great empire for our people? Can you build a civilization that can stand the test of time?",
@@ -134,8 +138,8 @@
 		"afterPeace": "You have fought well, It was an honor to fight you!",
 		"tradeRequest": "Are you interested in this offer?",
 
-		"outerColor": [255, 255, 255],
-		"innerColor": [255, 255, 0],
+		"outerColor": [255, 254, 127],
+		"innerColor": [240, 208, 0],
 		"uniqueName": "Samurai Spirit",
 		"uniqueText": "Military units are well disciplined, receiving +30% combat bonus on all terrains, however they are all expensive, decreasing the production speed and increasing the maintenance cost.",
 		"uniques": ["+[30]% combat bonus for units fighting in [Friendly Land]","+[30]% combat bonus for units fighting in [Foreign Land]","-[20]% Production when constructing [Military] units","+[20]% [Military] unit maintenance costs"],
@@ -147,6 +151,7 @@
 		"leaderName": "Eagle",
 		"adjective": ["Green Earth"],
     	"preferredVictoryType": "Scientific",
+		"style": "Green Earth",
 		
 		"startIntroPart1": "General Eagle, greetings. You have been famed on all over our country due to your brillance on ruling the skies, and bringing death from above to our foes. No other nations can surpass the might of the Green Earth air force and it shall always stay that way. Many years ago, the Black Hole mongrels have invaded our great country and nearly brought us all to the brink of destruction. But the people of Green Earth have persevered have brought us to the greatest victory the world has ever seen! And it is all thanks to you and to all of the other generals who stood bravely against their menace.",
 		"startIntroPart2": "General Eagle, the time has changed, wars are no longer fought in the battlefield, but are now also fought through the minds of men. General, the people no longer needs you as a great general, but rather, they need you as a leader! Are you ready to face the challenges that our civilization shall face? Can you perhaps build a great nation that can stand the test of time?",
@@ -169,7 +174,7 @@
 		"afterPeace": "Hah, you are not that bad after all.",
 		"tradeRequest": "This trade could bring a strategic advantage between the two of us!",
 
-		"outerColor": [144,238,144],
+		"outerColor": [0,100,0],
 		"innerColor": [0,255,0],
 		"uniqueName": "Lightning Strike",
 		"uniqueText": "Bombers can attack twice, Fighters can intercept twice, Helicopters can also attack twice. But all naval units suffer -15% combat penalty.",

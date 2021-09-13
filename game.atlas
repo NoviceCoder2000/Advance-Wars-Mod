@@ -1,82 +1,684 @@
 
 game.png
-size: 2048, 1024
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Black Cannon
   rotate: false
-  xy: 1789, 780
+  xy: 212, 62
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Communication Tower
+  rotate: false
+  xy: 1661, 1485
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Deathray
   rotate: false
-  xy: 426, 218
+  xy: 420, 62
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/National Treasury
+  rotate: false
+  xy: 1790, 1069
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 LeaderIcons/Eagle
   rotate: false
-  xy: 1461, 663
+  xy: 1661, 1693
   size: 320, 317
   orig: 320, 317
   offset: 0, 0
   index: -1
 LeaderIcons/Kanbei
   rotate: false
-  xy: 1053, 579
+  xy: 1174, 1122
   size: 400, 401
   orig: 400, 401
   offset: 0, 0
   index: -1
 LeaderIcons/Nell
   rotate: false
-  xy: 4, 4
-  size: 414, 414
-  orig: 414, 414
+  xy: 612, 1456
+  size: 554, 554
+  orig: 554, 554
   offset: 0, 0
   index: -1
 LeaderIcons/Olaf
   rotate: false
-  xy: 4, 426
+  xy: 4, 270
   size: 554, 554
   orig: 554, 554
   offset: 0, 0
   index: -1
 LeaderIcons/Sturm
   rotate: false
-  xy: 566, 501
+  xy: 1174, 1531
   size: 479, 479
   orig: 479, 479
   offset: 0, 0
   index: -1
 NationIcons/Black Hole
   rotate: false
-  xy: 1789, 672
+  xy: 1869, 1585
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Blue Moon
+  rotate: false
+  xy: 1028, 1348
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Green Earth
+  rotate: false
+  xy: 582, 932
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Orange Star
+  rotate: false
+  xy: 790, 1140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Yellow Comet
+  rotate: false
+  xy: 4, 832
+  size: 570, 570
+  orig: 570, 570
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Black Hole
+  rotate: false
+  xy: 1582, 1495
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Blue Moon
+  rotate: false
+  xy: 1028, 1312
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Green Earth
+  rotate: false
+  xy: 582, 896
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Orange Star
+  rotate: false
+  xy: 690, 1004
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Yellow Comet
+  rotate: false
+  xy: 790, 1104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun-Black Hole
+  rotate: false
+  xy: 898, 1208
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun-Blue Moon
+  rotate: false
+  xy: 62, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun-Green Earth
+  rotate: false
+  xy: 1989, 1920
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun-Orange Star
+  rotate: false
+  xy: 1869, 1487
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun-Yellow Comet
+  rotate: false
+  xy: 1927, 1545
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Artillery-Black Hole
+  rotate: false
+  xy: 1028, 1276
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Artillery-Blue Moon
+  rotate: false
+  xy: 1068, 1312
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Artillery-Green Earth
+  rotate: false
+  xy: 582, 860
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Artillery-Orange Star
+  rotate: false
+  xy: 622, 896
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Artillery-Yellow Comet
+  rotate: false
+  xy: 690, 968
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Assault Trooper
+  rotate: false
+  xy: 730, 1000
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Battle Helicopter
+  rotate: false
+  xy: 790, 1064
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bazooka-Black Hole
+  rotate: false
+  xy: 830, 1100
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bazooka-Blue Moon
+  rotate: false
+  xy: 898, 1168
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bazooka-Green Earth
+  rotate: false
+  xy: 938, 1208
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bazooka-Orange Star
+  rotate: false
+  xy: 102, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bazooka-Yellow Comet
+  rotate: false
+  xy: 1989, 1880
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship-Black Hole
+  rotate: false
+  xy: 938, 1168
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship-Blue Moon
+  rotate: false
+  xy: 978, 1208
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship-Green Earth
+  rotate: false
+  xy: 142, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helicopter Gunship-Orange Star
+  rotate: false
+  xy: 1989, 1840
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-Black Hole
+  rotate: false
+  xy: 978, 1168
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Marine-Black Hole
+  rotate: false
+  xy: 978, 1168
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Paratrooper-Invaders
+  rotate: false
+  xy: 978, 1168
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-Blue Moon
+  rotate: false
+  xy: 1068, 1276
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-Green Earth
+  rotate: false
+  xy: 622, 860
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-Orange Star
+  rotate: false
+  xy: 690, 932
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-Yellow Comet
+  rotate: false
+  xy: 662, 896
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Long Range MRLS
+  rotate: false
+  xy: 730, 964
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Machine Gun-Black Hole
+  rotate: false
+  xy: 182, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Machine Gun-Blue Moon
+  rotate: false
+  xy: 1989, 1800
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Machine Gun-Green Earth
+  rotate: false
+  xy: 222, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Machine Gun-Orange Star
+  rotate: false
+  xy: 1989, 1760
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Machine Gun-Yellow Comet
+  rotate: false
+  xy: 262, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Marine-Blue Moon
+  rotate: false
+  xy: 1989, 1720
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Marine-Green Earth
+  rotate: false
+  xy: 302, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Marine-Orange Star
+  rotate: false
+  xy: 342, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Marine-Yellow Comet
+  rotate: false
+  xy: 382, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mechanized Infantry-Black Hole
+  rotate: false
+  xy: 830, 1064
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mechanized Infantry-Blue Moon
+  rotate: false
+  xy: 662, 860
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mechanized Infantry-Green Earth
+  rotate: false
+  xy: 422, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mechanized Infantry-Yellow Comet
+  rotate: false
+  xy: 462, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Megatank
+  rotate: false
+  xy: 502, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mobile SAM-Black Hole
+  rotate: false
+  xy: 542, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mobile SAM-Blue Moon
+  rotate: false
+  xy: 582, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mobile SAM-Green Earth
+  rotate: false
+  xy: 730, 928
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mobile SAM-Orange Star
+  rotate: false
+  xy: 1028, 1240
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mobile SAM-Yellow Comet
+  rotate: false
+  xy: 1068, 1240
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Modern Armor-Black Hole
+  rotate: false
+  xy: 582, 824
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Modern Armor-Blue Moon
+  rotate: false
+  xy: 622, 824
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Modern Armor-Green Earth
+  rotate: false
+  xy: 662, 824
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Modern Armor-Orange Star
+  rotate: false
+  xy: 898, 1132
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Modern Armor-Yellow Comet
+  rotate: false
+  xy: 938, 1132
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Neotank
+  rotate: false
+  xy: 978, 1132
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Paratrooper-Blue Moon
+  rotate: false
+  xy: 1018, 1200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Paratrooper-Green Earth
+  rotate: false
+  xy: 1018, 1160
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Paratrooper-Orange Star
+  rotate: false
+  xy: 1058, 1200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Artillery-Black Hole
+  rotate: false
+  xy: 1058, 1164
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Artillery-Green Earth
+  rotate: false
+  xy: 1018, 1124
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Artillery-Orange Star
+  rotate: false
+  xy: 1058, 1128
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rocket Artillery-Yellow Comet
+  rotate: false
+  xy: 1989, 1684
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Special Ops
+  rotate: false
+  xy: 1108, 1312
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tank-Black Hole
+  rotate: false
+  xy: 1108, 1276
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tank-Blue Moon
+  rotate: false
+  xy: 1108, 1240
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tank-Green Earth
+  rotate: false
+  xy: 1098, 1204
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tank-Orange Star
+  rotate: false
+  xy: 1098, 1168
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tank-Yellow Comet
+  rotate: false
+  xy: 1098, 1132
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Assault Trooper
+  rotate: false
+  xy: 4, 62
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Battle Helicopter
+  rotate: false
+  xy: 4, 1410
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+UnitIcons/Long Range MRLS
+  rotate: false
+  xy: 1582, 1277
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Megatank
+  rotate: false
+  xy: 1582, 1069
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Meteor Strike
   rotate: false
-  xy: 426, 10
+  xy: 1790, 1277
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Neotank
   rotate: false
-  xy: 634, 293
+  xy: 612, 1248
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Orange Bomber
+  rotate: false
+  xy: 820, 1248
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Special Ops
+  rotate: false
+  xy: 582, 1040
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Combat Pay
+  rotate: false
+  xy: 4, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Landlubber
+  rotate: false
+  xy: 1989, 1960
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Relentless Invasion
   rotate: false
-  xy: 1053, 521
+  xy: 1869, 1527
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
