@@ -8,6 +8,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Replaceable Parts",
+		"uniques": ["Destroyed when the city is captured"]
 		"uniqueTo": "Black Hole"
 	},
 	
@@ -29,14 +30,14 @@
 	{
 		"name": "Communication Tower",
 		"replaces": "Broadcast Tower",
-		"percentStatBonus": {"culture": 33},		
+		"percentStatBonus": {"culture": 10},		
 		"culture": 2,
 		"science": 1,
 		"requiredBuilding": "Arsenal",
 		"maintenance": 4,
 		"requiredTech": "Radio",
 		"uniqueTo": "Green Earth",
-		"uniques": ["New [Military] units start with [15] Experience [in this city]"]
+		"uniques": ["New [Military] units start with [15] Experience [in this city]","Destroyed when the city is captured"]
 	},	
 	
 	//Wonders

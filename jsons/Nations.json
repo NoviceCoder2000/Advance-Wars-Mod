@@ -40,7 +40,7 @@
 		"leaderName": "Nell",
 		"adjective": ["Orange Star"],
 		"occursOn": ["Avoid [Desert]"],
-//		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Diplomatic",
 		"style": "Orange Star",
 		
 		"startIntroPart1": "Ah! Greetings Ms. Nell! I am here today to give you a short briefing. The top leaders of our council has chosen you to lead our country, for they see you to be the only one, fit enough to do the upcoming challenge that our country is about to face. As you may know, our country has fought so much wars within the past years, where even at one point we are fighting the whole world, but as time passes, wars are not the only thing that must be won, but we must now also win the hearts and the minds of the people, through the means of diplomacy and through the means of spreading the arts and talents of each individuals.",
@@ -68,7 +68,7 @@
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Lucky Star",
 		"uniques": ["[Great General] is earned [25]% faster","[Great Scientist] is earned [25]% faster"],
-		"uniqueText": "Great Generals, as well Great Scientists are earned 25% faster.",
+		"uniqueText": "Great Generals, and Great Scientists are earned 25% faster.",
 		"cities": ["Orange Star HQ","Sol","Scuti","Polaris","Sirius","Betelgeuse","Centauri","Rigel","Antares","Trappist","Arcturus","Vega","Deneb","Aldebaran","Formalhaut","Canopus","Ursa","Canis","Altair","Lambda","Epsilon","Alnilam"]
 		},
 		

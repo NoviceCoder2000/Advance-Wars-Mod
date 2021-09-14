@@ -5,13 +5,13 @@
 		"unitType": "Armor",
 		"movement": 5,
 		"strength": 120,
-		"cost": 475,
+		"cost": 580,
 		"replaces": "Modern Armor",
 		"uniqueTo": "Black Hole",
 		"upgradesTo": "Giant Death Robot",
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","+[50]% Strength vs [land units]"],
 		"promotions": ["Mobility"],
 		"attackSound": "tankshot"
 	},
@@ -23,11 +23,11 @@
 		"strength": 300,
 		"rangedStrength": 300,
 		"range": 15,
-		"cost": 1000,
+		"cost": 1500,
 		"replaces": "Nuclear Missile",
 		"uniqueTo": "Black Hole",
 		"requiredTech": "Rocketry",
-		"uniques": ["Self-destructs when attacking", "Nuclear weapon of Strength [2]", "Blast radius [2]"],
+		"uniques": ["Self-destructs when attacking","Nuclear weapon of Strength [2]", "Blast radius [2]","Cannot be purchased"],
 		"attackSound": "nuke"
 	},
 	
@@ -37,14 +37,13 @@
 		"unitType": "Bomber",
 		"movement": 2,
 		"strength": 85,
-		"rangedStrength": 85,
+		"rangedStrength": 65,
 		"range": 20,
-		"cost": 425,
+		"cost": 540,
 		"replaces": "Stealth Bomber",
 		"uniqueTo": "Orange Star",
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
-		"uniques": ["Damage taken from interception reduced by [120]%", "6 tiles in every direction always visible"],
 		"attackSound": "bombing"
 	},
 	
@@ -53,12 +52,12 @@
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"strength": 95,
-		"cost": 400,
+		"cost": 450,
 		"replaces": "Mechanized Infantry"
 		"uniqueTo": "Orange Star"
 		"requiredTech": "Mobile Tactics",
 		"attackSound": "shot",
-		"promotions": ["Besiege"]
+		"promotions": ["Siege"]
 	},
 	
 	//Blue Moon Units
@@ -67,10 +66,10 @@
 		"name": "Long Range MRLS",
 		"unitType": "Siege",
 		"movement": 2,
-		"strength": 50,
+		"strength": 45,
 		"rangedStrength": 60,
 		"range": 4,
-		"cost": 475,
+		"cost": 510,
 		"replaces": "Rocket Artillery",
 		"uniqueTo": "Blue Moon",
 		"requiredTech": "Rocketry",
@@ -87,12 +86,12 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 70,
-		"cost": 375,
+		"cost": 450,
 		"replaces": "Paratrooper",
 		"uniqueTo": "Yellow Comet",
 //		"upgradesTo": "Xcom Squad",
 		"requiredTech": "Radar",
-		"uniques": ["May Paradrop up to [6] tiles from inside friendly territory","Ignores terrain cost"],
+		"uniques": ["May Paradrop up to [6] tiles from inside friendly territory","Ignores terrain cost","No Movement Cost to Pillage"],
 		"attackSound": "shot"
 	},
 	
@@ -106,7 +105,7 @@
 		"uniqueTo": "Yellow Comet",
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
-		"uniques": ["+[100]% Strength vs [Armored]", "No defensive terrain bonus", "Can move after attacking",
+		"uniques": ["+[200]% Strength vs [Armored]", "No defensive terrain bonus", "Can move after attacking",
 			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities"],
 		"attackSound": "machinegun"
 	},
@@ -118,11 +117,11 @@
 		"unitType": "Armored",
 		"movement": 2,
 		"strength": 175,
-		"cost": 500,
+		"cost": 600,
 		"replaces": "Giant Death Robot",
 		"uniqueTo": "Green Earth",
 		"requiredTech": "Lasers",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Limited Visibility","Consumes [2] [Oil]","Consumes [1] [Aluminum]"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Limited Visibility","+[50]% Strength vs [land units]","Consumes [2] [Oil]","Consumes [1] [Aluminum]"],
 		"attackSound": "tankshot"
 	}
 ]
