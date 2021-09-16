@@ -1,0 +1,53 @@
+[
+	//Black Hole
+	{
+		"name": "Black Cannon",
+		"replaces": "Military Base",
+		"cityStrength": 15,
+		"cityHealth": 30,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Arsenal",
+		"requiredTech": "Replaceable Parts",
+		"uniqueTo": "Black Hole"
+	},
+	
+	//Blue Moon
+	{
+		"name": "National Treasury",
+		"replaces": "Bank",
+		"gold": 5,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking",
+		"uniqueTo": "Blue Moon",
+		"uniques": ["Doubles Gold given to enemy if city is captured","All newly-trained [Military] units in this city receive the [Combat Pay] promotion"]
+	},
+	
+	//Green Earth
+	{
+		"name": "Communication Tower",
+		"replaces": "Broadcast Tower",
+		"percentStatBonus": {"culture": 33},		
+		"culture": 2,
+		"science": 1,
+		"requiredBuilding": "Arsenal",
+		"maintenance": 4,
+		"requiredTech": "Radio",
+		"uniqueTo": "Green Earth",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]","Destroyed when the city is captured"]
+	},	
+	
+	//Wonders
+	{
+		"name": "Deathray",
+		"cityStrength": 30,
+		"cityHealth": 50,
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"science": 2},
+		"requiredTech": "Lasers",
+		"quote": "'I will not let it end here. I will sacrifice my own flesh and all of you, will join me in death!' - Sturm"
+	}
+]

@@ -68,7 +68,7 @@
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Lucky Star",
 		"uniques": ["[Great General] is earned [25]% faster","[Great Scientist] is earned [25]% faster"],
-		"uniqueText": "Great Generals, and Great Scientists are earned 25% faster.",
+		"uniqueText": "Great Generals and Great Scientists are earned 25% faster.",
 		"cities": ["Orange Star HQ","Sol","Scuti","Polaris","Sirius","Betelgeuse","Centauri","Rigel","Antares","Trappist","Arcturus","Vega","Deneb","Aldebaran","Formalhaut","Canopus","Ursa","Canis","Altair","Lambda","Epsilon","Alnilam"]
 		},
 		
@@ -177,7 +177,7 @@
 		"outerColor": [0,100,0],
 		"innerColor": [0,255,0],
 		"uniqueName": "Lightning Strike",
-		"uniqueText": "Bombers can attack twice, Fighters can intercept twice, Helicopters can also attack twice. But all naval units suffer -15% combat penalty.",
+		"uniqueText": "Bombers can attack twice, Fighters can intercept twice, Helicopters can also attack twice. But all naval units suffer -20% combat penalty.",
 		"uniques": ["[Helicopter] units gain the [Logistics] promotion","[Fighter] units gain the [Sortie] promotion","[Bomber] units gain the [Logistics] promotion","[Ranged Water] units gain the [Landlubber] promotion","[Melee Water] units gain the [Landlubber] promotion"],
 		"cities": ["Green Earth HQ","Gaia","Terra","Mercury","Venus","Jupiter","Saturn","Uranus","Neptune","Pluto","Eris","Haumea","Ceres","Makemake","Sedna","Quaoar","Orcus","Gonggong","Hygiea","Chiron","Intermania"]
 		}
