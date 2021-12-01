@@ -31,7 +31,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "True Warmongering",
 		"uniqueText": "Units excel in combat no matter what are the situation, granting +20% combat bonus. Units also ignores terrain cost.",
-		"uniques": ["+[20]% combat bonus for units fighting in [Friendly Land]","+[20]% combat bonus for units fighting in [Foreign Land]","[All] units gain the [Relentless Invasion] promotion"],
+		"uniques": ["[Military] units gain the [Spirit of Conquest] promotion","[All] units gain the [Relentless Invasion] promotion"],
 		"cities": ["Black Hole HQ","Saggitarius","Messier","Markarian","Centaurus","Fairall","Zwicky","Cygnus","Abell","Hercules","Holmberg","Cosmo Land","Macro Land","Omega Land","Sturm's Land","Lash Land"]
 	},
 	
@@ -142,7 +142,7 @@
 		"innerColor": [240, 208, 0],
 		"uniqueName": "Samurai Spirit",
 		"uniqueText": "Military units are well disciplined, receiving +30% combat bonus on all terrains, however they are all expensive, decreasing the production speed and increasing the maintenance cost.",
-		"uniques": ["+[30]% combat bonus for units fighting in [Friendly Land]","+[30]% combat bonus for units fighting in [Foreign Land]","-[20]% Production when constructing [Military] units","+[20]% [Military] unit maintenance costs"],
+		"uniques": ["[Military] units gain the [Samurai Spirit] promotion","[-20]% Production when constructing [Military] units [in all cities]","[+20]% maintenance costs for [Military] units"],
 		"cities": ["Yellow Comet HQ","Halley","Borrelly","Encke","Hale","Bopp","Hyakutake","Tuttle","Ikeya","Seki","Tempel","Chiron","Arend","Pons","Winnecke","Herschel","Rigollet","Ison","Metcalf"]
 		},
 		

@@ -11,6 +11,16 @@
 	
 	{
 		"name": "Landlubber",
-		"uniques": ["-[20]% Strength when attacking","-[20]% Strength when defending"]
+		"uniques": ["[-20]% Strength <when attacking>","[-20]% Strength <when defending>"]
+	},
+	
+	{
+		"name": "Samurai Spirit",
+		"uniques": ["[+30]% Strength <when attacking>","[+30]% Strength <when defending>"]
+	},
+	
+	{
+		"name": "Spirit of Conquest",
+		"uniques": ["[+20]% Strength <when attacking>","[+20]% Strength <when defending>"]
 	}
 ]

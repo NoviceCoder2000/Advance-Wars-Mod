@@ -98,8 +98,11 @@
 		"requiredTech": "Rocketry",
 		"requiredResource": "Aluminum",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Limited Visibility","Ranged attacks may be performed over obstacles"],
-		"attackSound": "artillery"
-	}
+		"attackSound": "artillery",
+		"civilopediaText": [
+			{"text": "Blue Moon's indirect combat brigades are one of the key strengths in their army, they excel the most under the command of the Blue Moon CO 'Grit'. Designs of Blue Moon's Rocket Artillery has a great similarity to the Soviet Union's MRLS model: BM-24. With an extended range compared to their regular counterparts, these rocket launchers can be a devestating component to the unprepared target."}
+		]
+	},
 	
 	//Yellow Comet Units
 	
@@ -129,7 +132,10 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
 			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities"],
-		"attackSound": "machinegun"
+		"attackSound": "machinegun",
+				"civilopediaText": [
+			{"text": "Historical Info: Despite the faction in game is heavily based in the Imperial Japanese Army, the model of the Yellow Comet Battle Helicopter seems to be based on the Boeing MH-6 'Little Bird' which is made in the United States of America."}
+		]
 	},
 	
 	//Green Earth Units
