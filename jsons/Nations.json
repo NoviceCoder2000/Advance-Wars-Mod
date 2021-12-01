@@ -39,7 +39,7 @@
 		"name": "Orange Star",
 		"leaderName": "Nell",
 		"adjective": ["Orange Star"],
-		"occursOn": ["Avoid [Desert]"],
+		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
 		"style": "Orange Star",
 		
@@ -112,7 +112,7 @@
 		{
 		"name": "Yellow Comet",
 		"leaderName": "Kanbei",
-		"startBias": ["Avoid [Desert]","Coast"],
+		"startBias": ["Coast"],
 		"adjective": ["Yellow Comet"],
 		"preferredVictoryType": "Domination",
 		"style": "Yellow Comet",
