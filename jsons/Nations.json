@@ -15,17 +15,17 @@
 		"introduction": "Hmph! What do you want human?",
 		
 		"neutralHello": "What?",
-		"neutralLetsHearIt": ["Speak.","Make it quick!","Go on."],
-		"neutralNo": ["No.","I refuse.","I do not like your offer"],
-		"neutralYes": ["Good.","Fine.","It is irrefusable."],
+		"neutralLetsHearIt": ["Speak.","Hmm...","Go on."],
+		"neutralNo": ["No.","I refuse.","This is insulting!"],
+		"neutralYes": ["Good.","Fine.","This could work."],
 
 		"hateHello": "Speak worm!",
-		"hateLetsHearIt": ["Go on!","Speak!","..."],
-		"hateNo": ["Unacceptable!","This is insulting!","Do you wish to be destroyed right now?"],
+		"hateLetsHearIt": ["Make it quick!","Speak!","..."],
+		"hateNo": ["Stop wasting my time!","Get out of my sight you worm!","Do you wish to be destroyed right now?"],
 		"hateYes": ["Hmph.","I cannot refuse.","Fine!"],
 		
 		"afterPeace": "Don't think that I'm already done with you.",
-		"tradeRequest": "Be blessed that I made this offer at the first place.",
+		"tradeRequest": "Be grateful that I made this offer at the first place.",
 
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
@@ -41,9 +41,10 @@
 		"adjective": ["Orange Star"],
 		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity", //Protestantism in BNW
 		"style": "Orange Star",
 		
-		"startIntroPart1": "Ah! Greetings Ms. Nell! I am here today to give you a short briefing. The top leaders of our council has chosen you to lead our country, for they see you to be the only one, fit enough to do the upcoming challenge that our country is about to face. As you may know, our country has fought so much wars within the past years, where even at one point we are fighting the whole world, but as time passes, wars are not the only thing that must be won, but we must now also win the hearts and the minds of the people, through the means of diplomacy and through the means of spreading the arts and talents of each individuals.",
+		"startIntroPart1": "Greetings Ms. Nell! I am here today to give you a short briefing. The top leaders of our council has chosen you to lead our country, for they see you to be the only one, fit enough to do the upcoming challenge that our country is about to face. As you may know, our country has fought so much wars within the past years, where even at one point we are fighting the whole world, but as time passes, wars are not the only thing that must be won, but we must now also win the hearts and the minds of the people, through the means of diplomacy and through the means of spreading the arts and talents of each individuals.",
 		"startIntroPart2": "Ms. Nell, the people are now here to listen to your orders. Can you help our country strive into greatness? Can you, build and lead our nation to new brillance that can withstand the test of time?",
 		
 		"declaringWar": "I'm feeling lucky today! I hope your troops are ready for mine!",
@@ -78,6 +79,7 @@
 		"adjective": ["Blue Moon"],
 		"startBias": ["Snow","Tundra"],
     	"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity", //Eastern Orthodxy in BNW
 		"style": "Blue Moon",
 		
 		"startIntroPart1": "Commander Olaf, ah greetings! Blue Moon have been a prosperous nation over the years, thanks to our brillant generals and as well as to our brillant economists. We have been a glorious nation over the past years and we shall be always on top compared to our neighbors. We are also great within the field of warfare, that no one can ever invade us! May it be those stinking Black Hole Invaders or our Orange Star neighbors, and it's all thanks to your leadership commander! But times have changed and our country must also adapt through these changes that were presented.",
@@ -115,6 +117,7 @@
 		"startBias": ["Coast"],
 		"adjective": ["Yellow Comet"],
 		"preferredVictoryType": "Domination",
+		"favoredReligion": "Shinto",
 		"style": "Yellow Comet",
 		
 		"startIntroPart1": "Hail your highness! Emperor Kanbei, you are one of the greatest men that have lead Yellow Comet for many years have come! You are an honorable warrior who knows the meaning of sacrifice, and you shall never back down against our foes even if it may cost you death, that is why the people adores and loves you my Emperor. Not only that, you are a superb commander when it comes to the military and even the laziest soldier there is, you can easily turn him to a greatly disciplined warrior, ready for battle!",
@@ -151,6 +154,7 @@
 		"leaderName": "Eagle",
 		"adjective": ["Green Earth"],
     	"preferredVictoryType": "Scientific",
+		"favoredReligion": "Christianity", //Protestantism im BNW
 		"style": "Green Earth",
 		
 		"startIntroPart1": "General Eagle, greetings. You have been famed on all over our country due to your brillance on ruling the skies, and bringing death from above to our foes. No other nations can surpass the might of the Green Earth air force and it shall always stay that way. Many years ago, the Black Hole mongrels have invaded our great country and nearly brought us all to the brink of destruction. But the people of Green Earth have persevered have brought us to the greatest victory the world has ever seen! And it is all thanks to you and to all of the other generals who stood bravely against their menace.",

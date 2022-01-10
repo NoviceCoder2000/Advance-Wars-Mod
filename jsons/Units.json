@@ -28,7 +28,7 @@
 		"movement": 1,
 		"strength": 300,
 		"rangedStrength": 300,
-		"range": 15,
+		"range": 12,
 		"cost": 1000,
 		"replaces": "Nuclear Missile",
 		"uniqueTo": "Black Hole",
@@ -97,7 +97,7 @@
 		"uniqueTo": "Blue Moon",
 		"requiredTech": "Rocketry",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Limited Visibility","Ranged attacks may be performed over obstacles"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[-1] Sight","Ranged attacks may be performed over obstacles"],
 		"attackSound": "artillery",
 		"civilopediaText": [
 			{"text": "Blue Moon's indirect combat brigades are one of the key strengths in their army, they excel the most under the command of the Blue Moon CO 'Grit'. Designs of Blue Moon's Rocket Artillery has a great similarity to the Soviet Union's MRLS model: BM-24. With an extended range compared to their regular counterparts, these rocket launchers can be a devestating component to the unprepared target."}
@@ -149,7 +149,7 @@
 		"replaces": "Giant Death Robot",
 		"uniqueTo": "Green Earth",
 		"requiredTech": "Lasers",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Limited Visibility","Consumes [2] [Oil]","Consumes [1] [Aluminum]"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-1] Sight","Consumes [2] [Oil]","Consumes [1] [Aluminum]"],
 		"attackSound": "tankshot"
 	}
 ]

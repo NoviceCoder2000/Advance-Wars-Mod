@@ -14,7 +14,7 @@
 	
 	//Blue Moon
 	{
-		"name": "National Treasury",
+		"name": "War Treasury",
 		"replaces": "Bank",
 		"gold": 5,
 		"specialistSlots": {"Merchant": 1},
@@ -29,8 +29,7 @@
 	//Green Earth
 	{
 		"name": "Communication Tower",
-		"replaces": "Broadcast Tower",
-		"percentStatBonus": {"culture": 33},		
+		"replaces": "Broadcast Tower",	
 		"culture": 2,
 		"science": 1,
 		"requiredBuilding": "Arsenal",
