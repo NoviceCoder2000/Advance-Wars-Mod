@@ -5,6 +5,15 @@
 	},
 	
 	{
+		"name": "Lucky Star",
+		"uniques": ["[+30]% Strength <with [10]% chance>",
+		"[+25]% Strength <with [20]% chance>",
+		"[+20]% Strength <with [35]% chance>",
+		"[+15]% Strength <with [65]% chance>",
+		"[+10]% Strength <with [95]% chance>"]
+	}
+	
+	{
 		"name": "Combat Pay",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"]
 	},

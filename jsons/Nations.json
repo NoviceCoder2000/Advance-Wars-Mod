@@ -7,7 +7,7 @@
 		"style": "Black Hole",
 		
 		"startIntroPart1": "Sturm, you are a mighty and fearsome leader. You are a being who despise peace and enjoys the glories of war. Although little are known about your past, you are well known for the conquests and victories that you had achieved. No one knows how many have fallen victim by your ruthlessness and no one knows how many lives were paid for the countless wars that you have started. But despite of those, one thing is for sure, your men views you as an indomitable warrior and will do anything that you will even if it costs them death.",
-		"startIntroPart2": "After travelling and venturing for so long, you then saw this planet filled with great civilizations that has their own unique characteristics, where some also seeks glory through wars such as you. Sturm, conqueror of the worlds, how shall you deal with this planet? Shall you crush them all and add the numbers of the fallen victims of your conquests? Or shall you take a different route this time?",
+		"startIntroPart2": "After travelling and venturing for so long, you then saw this planet filled with great civilizations that has their own unique characteristics, where some also seeks glory through wars such as you. Sturm, conqueror of the worlds, how shall you deal with this planet? Shall you crush them all and add the numbers of the fallen victims of your conquests? Can you build a civilization that can stand the test of time?",
 		
 		"declaringWar": "Your time is about to come! Tremble before me and I may still spare your miserable life!",
 		"attacked": "Fool! Do you really think you can defeat me?",
@@ -68,8 +68,8 @@
 		"outerColor": [229,103,23],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Lucky Star",
-		"uniques": ["[Great General] is earned [25]% faster","[Great Scientist] is earned [25]% faster"],
-		"uniqueText": "Great Generals and Great Scientists are earned 25% faster.",
+		"uniques": ["[Military] units gain the [Lucky Star] promotion"],
+		"uniqueText": "Random chances to inflict more damage against enemies. Up to 100% combat bonus.",
 		"cities": ["Orange Star HQ","Sol","Scuti","Polaris","Sirius","Betelgeuse","Centauri","Rigel","Antares","Trappist","Arcturus","Vega","Deneb","Aldebaran","Formalhaut","Canopus","Ursa","Canis","Altair","Lambda","Epsilon","Alnilam"]
 		},
 		
@@ -77,8 +77,8 @@
 		"name": "Blue Moon",
 		"leaderName": "Olaf",
 		"adjective": ["Blue Moon"],
-		"startBias": ["Snow","Tundra"],
-    	"preferredVictoryType": "Domination",
+		"startBias": ["Tundra"],
+    	"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity", //Eastern Orthodxy in BNW
 		"style": "Blue Moon",
 		
@@ -107,7 +107,7 @@
 		"innerColor": [0, 0, 128],
 		"uniqueName": "Winter Fury",
 		"uniqueText": "Units likes fighting in the cold, receiving +10% combat bonus on Snow and Tundra tiles. However, units hates the rain, receiving -10% penalty in Jungle tiles.",
-		"uniques": ["+[10]% combat bonus for units fighting in [Snow]","+[10]% combat bonus for units fighting in [Tundra]","-[10]% combat bonus for units fighting in [Jungle]"],
+		"uniques": ["[+10]% combat bonus for units fighting in [Snow]","[+10]% combat bonus for units fighting in [Tundra]","[-10]% combat bonus for units fighting in [Jungle]"],
 		"cities": ["Blue Moon HQ","Luna","Phobos","Deimos","Europa","Ganymede","Io","Callisto","Amalthea","Eceladus","Titan","Mimas","Dione","Tethys","Umbriel","Titania","Miranda","Triton","Thalassa","Proteus","Charon"]
 		},
 		
@@ -116,7 +116,7 @@
 		"leaderName": "Kanbei",
 		"startBias": ["Coast"],
 		"adjective": ["Yellow Comet"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Shinto",
 		"style": "Yellow Comet",
 		
@@ -144,7 +144,7 @@
 		"outerColor": [255, 254, 127],
 		"innerColor": [240, 208, 0],
 		"uniqueName": "Samurai Spirit",
-		"uniqueText": "Military units are well disciplined, receiving +30% combat bonus on all terrains, however they are all expensive, decreasing the production speed and increasing the maintenance cost.",
+		"uniqueText": "Military units receive +30% combat bonus at all times, however they are all expensive, decreasing the production speed and increasing the maintenance cost.",
 		"uniques": ["[Military] units gain the [Samurai Spirit] promotion","[-20]% Production when constructing [Military] units [in all cities]","[+20]% maintenance costs for [Military] units"],
 		"cities": ["Yellow Comet HQ","Halley","Borrelly","Encke","Hale","Bopp","Hyakutake","Tuttle","Ikeya","Seki","Tempel","Chiron","Arend","Pons","Winnecke","Herschel","Rigollet","Ison","Metcalf"]
 		},
