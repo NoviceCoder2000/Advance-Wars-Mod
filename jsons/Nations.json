@@ -121,7 +121,7 @@
 		"style": "Yellow Comet",
 		
 		"startIntroPart1": "Hail your highness! Emperor Kanbei, you are one of the greatest men that have lead Yellow Comet for many years have come! You are an honorable warrior who knows the meaning of sacrifice, and you shall never back down against our foes even if it may cost you death, that is why the people adores and loves you my Emperor. Not only that, you are a superb commander when it comes to the military and even the laziest soldier there is, you can easily turn him to a greatly disciplined warrior, ready for battle!",
-		"startIntroPart2": "But my Emperor, the people needs you again, as our illustrious empire is once more, about to face a great trial. The people seeks greatness that can surpass our ancestors and bring our nation on the top! My emperor can you build a great empire for our people? Can you build a civilization that can stand the test of time?",
+		"startIntroPart2": "My Emperor, the people needs you again, as our illustrious empire is once more, about to face a great trial. The people seeks greatness that can surpass our ancestors and bring our nation on the top! My emperor can you build a great empire for our people? Can you build a civilization that can stand the test of time?",
 		
 		"declaringWar": "We have endured your foul stench for so long. But now, you are but to suffer under the steel of my blade! Prepare yourself!",
 		"attacked": "Ha! Do not underestimate us! I shall build a mountain of troops to stop your advance!",
@@ -144,7 +144,7 @@
 		"outerColor": [255, 254, 127],
 		"innerColor": [240, 208, 0],
 		"uniqueName": "Samurai Spirit",
-		"uniqueText": "Military units receive +30% combat bonus at all times, however they are all expensive, decreasing the production speed and increasing the maintenance cost.",
+		"uniqueText": "Military units receive +30% combat bonus at all times, however they are all expensive, decreasing the production speed and increasing the maintenance cost by 20%.",
 		"uniques": ["[Military] units gain the [Samurai Spirit] promotion","[-20]% Production when constructing [Military] units [in all cities]","[+20]% maintenance costs for [Military] units"],
 		"cities": ["Yellow Comet HQ","Halley","Borrelly","Encke","Hale","Bopp","Hyakutake","Tuttle","Ikeya","Seki","Tempel","Chiron","Arend","Pons","Winnecke","Herschel","Rigollet","Ison","Metcalf"]
 		},
