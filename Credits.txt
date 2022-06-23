@@ -45,7 +45,7 @@ https://thenounproject.com/search/?q=advance%20wars&i=1605007
 - Black Cannon - Cannon by Lluisa Iborra from the Noun Project
 https://thenounproject.com/search/?q=advance%20wars&i=1604995
 
-- National Treasury - vault by Nociconist from the Noun Project
+- War - vault by Nociconist from the Noun Project
 https://thenounproject.com/search/?q=vault&i=1547506
 
 - Communications Tower - https://thenounproject.com/search/?q=Radio+Tower&i=25401
@@ -66,24 +66,10 @@ https://thenounproject.com/search/?q=Samurai&i=2360014
 - Spirit of Conquest - By ProSymbols, US
 https://thenounproject.com/search/?q=Soldier&i=2096478
 
+- Lucky Star - Favorite by Round Icons from NounProject.com
+https://thenounproject.com/icon/favorite-4676152/
 
 Special thanks to GeneralWadaling (THE BUCKETEER) for helping me develop the unit sprites.
 
 Music:
-Black Hole:
-von Bolt's Theme - By 0rangaStang
-https://www.youtube.com/watch?v=aYPGJza1PdQ&t=8s&ab_channel=0rangaStang
-
-Orange Star:
-Andy's Anthem - FullHealth
-https://www.youtube.com/watch?v=XKBUyAR1S6I&ab_channel=FullHealth
-
-Sami's Theme - FullHealth
-https://www.youtube.com/watch?v=NSENH7rwy3g&ab_channel=FullHealth
-
-Blue Moon:
-
-Olaf's Theme - FullHealth
-https://www.youtube.com/watch?v=2d0QlzUd4xM&ab_channel=FullHealth
-
-All of the music used were developed by Nintendo, credited music were edited/remixed
+All of the music used were developed by Nintendo and Intelligent Systems
