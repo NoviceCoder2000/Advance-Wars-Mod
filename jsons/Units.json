@@ -56,7 +56,7 @@
 		"uniqueTo": "Orange Star",
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
-		"uniques": ["Damage taken from interception reduced by [120]%", "6 tiles in every direction always visible"],
+		"uniques": ["Damage taken from interception reduced by [120]%","[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing",
 		"civilopediaText": [
 			{"text": "			Strategy: Orange Bombers has the ability to dock on carriers, so now naval bombings are now easier to do now that there are bombers who can evade interception. They are also more resilient from interceptions compared to the normal stealth bombers.
