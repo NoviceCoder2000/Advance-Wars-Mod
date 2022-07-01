@@ -30,7 +30,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "True Warmongering",
-		"uniqueText": "Units excel in combat no matter what are the situation, granting +20% combat bonus. Units also ignores terrain cost.",
+		"uniqueText": "Units excel in combat no matter what are the situation, granting +20% combat bonus. Units also ignores terrain cost and Zone of Control.",
 		"uniques": ["[Military] units gain the [Spirit of Conquest] promotion","[All] units gain the [Relentless Invasion] promotion"],
 		"cities": ["Black Hole HQ","Saggitarius","Messier","Markarian","Centaurus","Fairall","Zwicky","Cygnus","Abell","Hercules","Holmberg","Cosmo Land","Macro Land","Omega Land","Sturm's Land","Lash Land"]
 	},
