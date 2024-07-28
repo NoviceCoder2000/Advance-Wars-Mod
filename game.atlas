@@ -116,21 +116,21 @@ TileSets/FantasyHex/Units/Anti-Aircraft Gun-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Anti-Aircraft Gun-Green Earth
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Gold Comet
   rotate: false
   xy: 1352, 268
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Anti-Aircraft Gun-Orange Star
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Green Earth
   rotate: false
   xy: 1144, 414
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Anti-Aircraft Gun-Yellow Comet
+TileSets/FantasyHex/Units/Anti-Aircraft Gun-Orange Star
   rotate: false
   xy: 1398, 476
   size: 32, 28
@@ -151,21 +151,21 @@ TileSets/FantasyHex/Units/Anti-Tank Gun-Blue Moon
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Anti-Tank Gun-Green Earth
+TileSets/FantasyHex/Units/Anti-Tank Gun-Gold Comet
   rotate: false
   xy: 1972, 880
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Anti-Tank Gun-Orange Star
+TileSets/FantasyHex/Units/Anti-Tank Gun-Green Earth
   rotate: false
   xy: 2012, 880
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Anti-Tank Gun-Yellow Comet
+TileSets/FantasyHex/Units/Anti-Tank Gun-Orange Star
   rotate: false
   xy: 328, 64
   size: 32, 32
@@ -186,21 +186,21 @@ TileSets/FantasyHex/Units/Artillery-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Artillery-Green Earth
+TileSets/FantasyHex/Units/Artillery-Gold Comet
   rotate: false
   xy: 1746, 784
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Artillery-Orange Star
+TileSets/FantasyHex/Units/Artillery-Green Earth
   rotate: false
   xy: 1352, 232
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Artillery-Yellow Comet
+TileSets/FantasyHex/Units/Artillery-Orange Star
   rotate: false
   xy: 1144, 378
   size: 32, 28
@@ -235,21 +235,21 @@ TileSets/FantasyHex/Units/Battleship-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Battleship-Green Earth
+TileSets/FantasyHex/Units/Battleship-Gold Comet
   rotate: false
   xy: 1786, 784
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Battleship-Orange Star
+TileSets/FantasyHex/Units/Battleship-Green Earth
   rotate: false
   xy: 1352, 196
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Battleship-Yellow Comet
+TileSets/FantasyHex/Units/Battleship-Orange Star
   rotate: false
   xy: 1144, 342
   size: 32, 28
@@ -270,21 +270,21 @@ TileSets/FantasyHex/Units/Bazooka-Blue Moon
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Bazooka-Green Earth
+TileSets/FantasyHex/Units/Bazooka-Gold Comet
   rotate: false
   xy: 1656, 622
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Bazooka-Orange Star
+TileSets/FantasyHex/Units/Bazooka-Green Earth
   rotate: false
   xy: 1352, 156
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Bazooka-Yellow Comet
+TileSets/FantasyHex/Units/Bazooka-Orange Star
   rotate: false
   xy: 1398, 356
   size: 32, 32
@@ -305,21 +305,21 @@ TileSets/FantasyHex/Units/Carrier-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Carrier-Green Earth
+TileSets/FantasyHex/Units/Carrier-Gold Comet
   rotate: false
   xy: 124, 18
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Carrier-Orange Star
+TileSets/FantasyHex/Units/Carrier-Green Earth
   rotate: false
   xy: 1656, 586
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Carrier-Yellow Comet
+TileSets/FantasyHex/Units/Carrier-Orange Star
   rotate: false
   xy: 1352, 120
   size: 32, 28
@@ -340,21 +340,21 @@ TileSets/FantasyHex/Units/Destroyer-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Destroyer-Green Earth
+TileSets/FantasyHex/Units/Destroyer-Gold Comet
   rotate: false
   xy: 164, 18
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Destroyer-Orange Star
+TileSets/FantasyHex/Units/Destroyer-Green Earth
   rotate: false
   xy: 1656, 550
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Destroyer-Yellow Comet
+TileSets/FantasyHex/Units/Destroyer-Orange Star
   rotate: false
   xy: 204, 18
   size: 32, 28
@@ -375,21 +375,21 @@ TileSets/FantasyHex/Units/Great General-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Great General-Green Earth
+TileSets/FantasyHex/Units/Great General-Gold Comet
   rotate: false
   xy: 1656, 478
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Great General-Orange Star
+TileSets/FantasyHex/Units/Great General-Green Earth
   rotate: false
   xy: 284, 18
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Great General-Yellow Comet
+TileSets/FantasyHex/Units/Great General-Orange Star
   rotate: false
   xy: 1656, 442
   size: 32, 28
@@ -452,21 +452,21 @@ TileSets/FantasyHex/Units/Infantry-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Infantry-Green Earth
+TileSets/FantasyHex/Units/Infantry-Gold Comet
   rotate: false
   xy: 1518, 318
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Infantry-Orange Star
+TileSets/FantasyHex/Units/Infantry-Green Earth
   rotate: false
   xy: 1558, 318
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Infantry-Yellow Comet
+TileSets/FantasyHex/Units/Infantry-Orange Star
   rotate: false
   xy: 1598, 318
   size: 32, 28
@@ -501,21 +501,21 @@ TileSets/FantasyHex/Units/Machine Gun-Blue Moon
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Machine Gun-Green Earth
+TileSets/FantasyHex/Units/Machine Gun-Gold Comet
   rotate: false
   xy: 1392, 164
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Machine Gun-Orange Star
+TileSets/FantasyHex/Units/Machine Gun-Green Earth
   rotate: false
   xy: 1392, 124
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Machine Gun-Yellow Comet
+TileSets/FantasyHex/Units/Machine Gun-Orange Star
   rotate: false
   xy: 1438, 274
   size: 32, 32
@@ -529,21 +529,21 @@ TileSets/FantasyHex/Units/Marine-Blue Moon
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Marine-Green Earth
+TileSets/FantasyHex/Units/Marine-Gold Comet
   rotate: false
   xy: 1518, 278
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Marine-Orange Star
+TileSets/FantasyHex/Units/Marine-Green Earth
   rotate: false
   xy: 1558, 278
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Marine-Yellow Comet
+TileSets/FantasyHex/Units/Marine-Orange Star
   rotate: false
   xy: 1598, 278
   size: 32, 32
@@ -564,28 +564,28 @@ TileSets/FantasyHex/Units/Mechanized Infantry-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Mechanized Infantry-Green Earth
+TileSets/FantasyHex/Units/Mechanized Infantry-Gold Comet
   rotate: false
   xy: 1432, 166
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Mechanized Infantry-Orange Star
+TileSets/FantasyHex/Units/Mechanized Infantry-Green Earth
   rotate: false
   xy: 1432, 130
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mechanized Infantry-Orange Star
+  rotate: false
+  xy: 1972, 844
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Special Ops
-  rotate: false
-  xy: 1432, 130
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Mechanized Infantry-Yellow Comet
   rotate: false
   xy: 1972, 844
   size: 32, 28
@@ -613,21 +613,21 @@ TileSets/FantasyHex/Units/Mobile SAM-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Mobile SAM-Green Earth
+TileSets/FantasyHex/Units/Mobile SAM-Gold Comet
   rotate: false
   xy: 1746, 748
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Mobile SAM-Orange Star
+TileSets/FantasyHex/Units/Mobile SAM-Green Earth
   rotate: false
   xy: 1786, 748
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Mobile SAM-Yellow Comet
+TileSets/FantasyHex/Units/Mobile SAM-Orange Star
   rotate: false
   xy: 1826, 748
   size: 32, 28
@@ -648,21 +648,21 @@ TileSets/FantasyHex/Units/Modern Armor-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Modern Armor-Green Earth
+TileSets/FantasyHex/Units/Modern Armor-Gold Comet
   rotate: false
   xy: 1696, 676
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Modern Armor-Orange Star
+TileSets/FantasyHex/Units/Modern Armor-Green Earth
   rotate: false
   xy: 1736, 712
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Modern Armor-Yellow Comet
+TileSets/FantasyHex/Units/Modern Armor-Orange Star
   rotate: false
   xy: 1696, 640
   size: 32, 28
@@ -704,21 +704,21 @@ TileSets/FantasyHex/Units/Rocket Artillery-Black Hole
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Rocket Artillery-Green Earth
+TileSets/FantasyHex/Units/Rocket Artillery-Gold Comet
   rotate: false
   xy: 1816, 712
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Rocket Artillery-Orange Star
+TileSets/FantasyHex/Units/Rocket Artillery-Green Earth
   rotate: false
   xy: 1696, 564
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Rocket Artillery-Yellow Comet
+TileSets/FantasyHex/Units/Rocket Artillery-Orange Star
   rotate: false
   xy: 1736, 600
   size: 32, 28
@@ -739,21 +739,21 @@ TileSets/FantasyHex/Units/Submarine-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Submarine-Green Earth
+TileSets/FantasyHex/Units/Submarine-Gold Comet
   rotate: false
   xy: 1856, 712
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Submarine-Orange Star
+TileSets/FantasyHex/Units/Submarine-Green Earth
   rotate: false
   xy: 1696, 528
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Submarine-Yellow Comet
+TileSets/FantasyHex/Units/Submarine-Orange Star
   rotate: false
   xy: 1736, 564
   size: 32, 28
@@ -774,21 +774,21 @@ TileSets/FantasyHex/Units/Tank-Blue Moon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Tank-Green Earth
+TileSets/FantasyHex/Units/Tank-Gold Comet
   rotate: false
   xy: 1856, 676
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Tank-Orange Star
+TileSets/FantasyHex/Units/Tank-Green Earth
   rotate: false
   xy: 1696, 492
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Tank-Yellow Comet
+TileSets/FantasyHex/Units/Tank-Orange Star
   rotate: false
   xy: 1736, 528
   size: 32, 28
