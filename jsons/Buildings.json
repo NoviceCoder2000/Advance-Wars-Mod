@@ -23,7 +23,7 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking",
 		"uniqueTo": "Blue Moon",
-		"uniques": ["Doubles Gold given to enemy if city is captured","Destroyed when the city is captured", "All newly-trained [Military] units in this city receive the [Combat Pay] promotion"]
+		"uniques": ["Doubles Gold given to enemy if city is captured","Destroyed when the city is captured",  "All newly-trained [Military] units [in this city] receive the [Combat Pay] promotion"]
 	},
 	
 	//Green Earth
@@ -46,7 +46,7 @@
 		"cityHealth": 50,
 		"culture": 1,
 		"isWonder": true,
-		"greatPersonPoints": {"science": 2},
+		"greatPersonPoints": {"Great Scientist": 2},
 		"requiredTech": "Lasers",
 		"quote": "'I will not let it end here. I will sacrifice my own flesh and all of you, will join me in death!' - Sturm"
 	}

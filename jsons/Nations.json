@@ -107,7 +107,7 @@
 		"innerColor": [0, 0, 128],
 		"uniqueName": "Winter Fury",
 		"uniqueText": "Units likes fighting in the cold, receiving +10% combat bonus on Snow and Tundra tiles. However, units hates the rain, receiving -10% penalty in Jungle tiles.",
-		"uniques": ["[+10]% combat bonus for units fighting in [Snow]","[+10]% combat bonus for units fighting in [Tundra]","[-10]% combat bonus for units fighting in [Jungle]"],
+		"uniques": [ "[+10]% Strength <when fighting in [Snow] tiles>","[+10]% Strength <when fighting in [Tundra] tiles>","[-10]% Strength <when fighting in [Jungle] tiles>"],
 		"cities": ["Blue Moon HQ","Luna","Phobos","Deimos","Europa","Ganymede","Io","Callisto","Amalthea","Eceladus","Titan","Mimas","Dione","Tethys","Umbriel","Titania","Miranda","Triton","Thalassa","Proteus","Charon"]
 		},
 		
