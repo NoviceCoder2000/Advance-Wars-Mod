@@ -1,0 +1,211 @@
+[ 
+  {
+      "name": "Sturm",
+	  "preferredVictoryType": "Domination",
+     
+	 // Stats focused personalities	  
+      "production": 11,
+      "food": 4,
+      "gold": 7,
+      "science": 11,	  
+      "culture": 2,
+      "happiness": 3,
+      "faith": 2,
+	  
+      // Behavour focused personalities
+      "military": 12,
+      "aggressive": 11,
+      "declareWar": 12,
+      "commerce": 7,
+      "diplomacy": 2,
+      "loyal": 2,
+      "expansion": 12,
+
+	  // Policy focused personality
+      "priorities": {
+          "Tradition": 2,
+          "Liberty": 9,
+          "Honor": 12,
+          "Commerce": 7,
+          "Patronage": 4,
+          "Piety": 2,
+          "Rationalism": 10,
+          "Freedom": 3,
+          "Autocracy": 11,
+          "Order": 5
+      },
+      "civilopediaText": [
+        {
+			  "text": "Notorious leader of the Black Hole with mysterious origins, Sturm is war incarnate. He abhors the concept of peace and enjoys the glories that war brings. He is difficult to deal with diplomatically and would require caution when dealing with him, even if you think he is friendly."
+		}
+      ]
+  },
+  
+    {
+      "name": "Nell",
+	  "preferredVictoryType": "Diplomatic",
+     
+	 // Stats focused personalities	  
+      "production": 8,
+      "food": 6,
+      "gold": 6,
+      "science": 8,	  
+      "culture": 5,
+      "happiness": 6,
+      "faith": 4,
+	  
+      // Behavour focused personalities
+      "military": 7,
+      "aggressive": 4,
+      "declareWar": 4,
+      "commerce": 7,
+      "diplomacy": 10,
+      "loyal": 10,
+      "expansion": 5,
+
+	  // Policy focused personality
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 10,
+          "Honor": 8,
+          "Commerce": 7,
+          "Patronage": 10,
+          "Piety": 2,
+          "Rationalism": 9,
+          "Freedom": 12,
+          "Autocracy": 2,
+          "Order": 5
+      },
+      "civilopediaText": [
+        {
+			  "text": "Chief CO of the Orange Star, a teacher by heart and loves to instruct young and green COs to stand on their ground. Other than being a field teacher, she also works as a coordinator between high command and field COs, making sure cohesion and cooperation between the two continues."
+		}
+      ]
+  },
+  
+  {
+      "name": "Olaf",
+	  "preferredVictoryType": "Scientific",
+     
+	 // Stats focused personalities	  
+      "production": 11,
+      "food": 6,
+      "gold": 11,
+      "science": 8,	  
+      "culture": 4,
+      "happiness": 4,
+      "faith": 2,
+	  
+      // Behavour focused personalities
+      "military": 9,
+      "aggressive": 6,
+      "declareWar": 7,
+      "commerce": 12,
+      "diplomacy": 9,
+      "loyal": 7,
+      "expansion": 8,
+
+	  // Policy focused personality
+      "priorities": {
+          "Tradition": 3,
+          "Liberty": 11,
+          "Honor": 6,
+          "Commerce": 11,
+          "Patronage": 6,
+          "Piety": 2,
+          "Rationalism": 11,
+          "Freedom": 4,
+          "Autocracy": 5,
+          "Order": 11
+      },
+      "civilopediaText": [
+        {
+			  "text": "A pompous braggart whose tactical and strategic thinking have earned the respect of his peers. A high ranking CO of Blue Moon, Olaf is skilled on leveraging on thriving on making his nation profit through the various Plutocrats of the nation of his country."
+		}
+      ]
+  },
+  
+    {
+      "name": "Kanbei",
+	  "preferredVictoryType": "Cultural",
+     
+	 // Stats focused personalities	  
+      "production": 7,
+      "food": 8,
+      "gold": 4,
+      "science": 2,	  
+      "culture": 12,
+      "happiness": 12,
+      "faith": 10,
+	  
+      // Behavour focused personalities
+      "military": 10,
+      "aggressive": 4,
+      "declareWar": 5,
+      "commerce": 7,
+      "diplomacy": 9,
+      "loyal": 12,
+      "expansion": 4,
+
+	  // Policy focused personality
+      "priorities": {
+          "Tradition": 11,
+          "Liberty": 4,
+          "Honor": 12,
+          "Commerce": 4,
+          "Patronage": 6,
+          "Piety": 8,
+          "Rationalism": 2,
+          "Freedom": 4,
+          "Autocracy": 10,
+          "Order": 4
+      },
+      "civilopediaText": [
+        {
+			  "text": "Emperor of Yellow Comet. Kanbei strongly values tradition and honor, making him adored by his people. Although, his strong adherence to tradition, had made him very difficult to change perspective on changes and new, unorthodox ideas and are more willing to charge head-first on problems; no matter the cost."
+		}
+      ]
+  },
+  
+    {
+      "name": "Eagle",
+	  "preferredVictoryType": "Scientific",
+     
+	 // Stats focused personalities	  
+      "production": 10,
+      "food": 8,
+      "gold": 4,
+      "science": 10,	  
+      "culture": 4,
+      "happiness": 6,
+      "faith": 4,
+	  
+      // Behavour focused personalities
+      "military": 8,
+      "aggressive": 4,
+      "declareWar": 6,
+      "commerce": 5,
+      "diplomacy": 9,
+      "loyal": 9,
+      "expansion": 7,
+
+	  // Policy focused personality
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 8,
+          "Honor": 9,
+          "Commerce": 5,
+          "Patronage": 7,
+          "Piety": 2,
+          "Rationalism": 12,
+          "Freedom": 5,
+          "Autocracy": 9,
+          "Order": 2
+      },
+      "civilopediaText": [
+        {
+			  "text": "Eagle first joined the Air Force in honor of his father. Expectedly, he is great at leading in the skies. Eagle is competitive by nature, never backing down at the sight of a good fight, and therefore likes to contend against other civilizations. Despite it, Eagle is welcome on finding new friends that he can cooperate with."
+		}
+      ]
+  }
+]
