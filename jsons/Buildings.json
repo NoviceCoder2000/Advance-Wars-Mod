@@ -36,7 +36,7 @@
 		"maintenance": 4,
 		"requiredTech": "Radio",
 		"uniqueTo": "Green Earth",
-		"uniques": ["New [Military] units start with [15] Experience [in this city]","Destroyed when the city is captured"]
+		"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured"]
 	},	
 	
 	//Wonders
